@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "no-console": 0,
+    "arrow-body-style": 0,
+    "dot-notation": 0,
+    "padded-blocks": 0,
+    "max-len": 0,
+    "no-multi-assign": 0,
+    "react/require-default-props": 0,
+    "react/forbid-prop-types": 0,
+    "react/no-array-index-key": 0,
+    "react/jsx-closing-bracket-location": 0,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "react/jsx-filename-extension": 0,
+  }
+}
